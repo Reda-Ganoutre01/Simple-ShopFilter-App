@@ -2,6 +2,7 @@
 
 **Simple-ShopFilter-App** is a modern and minimalistic web application built with **React** that allows users to browse, search, and filter products fetched from a fake store API. It displays a table of products with useful information like category, price, description, and image.
 
+## 📷 Screenshot
 ![App Screenshot](assets/Screen_Web.png)
 
 ---
@@ -76,11 +77,6 @@ simple-shopfilter-app/
 │       └── style.css
 ```
 
----
-
-## 📷 Screenshot
-
-![App Screenshot](assets/Screen_Web.png)
 
 ---
 
